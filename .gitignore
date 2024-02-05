@@ -1,0 +1,10 @@
+# Arquivos relacionados ao Node.js
+node_modules/
+
+# Arquivos de build do Cypress
+/cypress/screenshots/
+/cypress/videos/
+
+# Outros arquivos temporários
+.DS_Store
+*.log

@@ -1,0 +1,12 @@
+{
+  "name": "automacao-front-end-web",
+  "version": "1.0.0",
+  "description": "O projeto tem como objetivo a implementação de cenários automatizados de testes no ambiente demo da magento",
+
+  "devDependencies": {
+    "cypress": "^13.6.4",
+    "faker": "^5.5.3"
+  },
+  
+  "author": "Luiz Fernando S Borges"  
+}
